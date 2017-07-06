@@ -1,0 +1,78 @@
+{
+  "music": [
+    {
+      "artist": ["Saint Motel"],
+      "album": "My Type EP, Limited Edition",
+      "songs": {
+        "aSide": [
+          "My Type",
+          "Ace in the Hole"
+        ],
+        "bSide": ["Cold Cold Man", "Midnight Movies"]
+      },
+      "size": 10
+    },
+    {
+      "artist": ["Saint Motel"],
+      "album": "Saintmotelevision LP, Multi-color Splatter ",
+      "songs": {
+        "aSide": [
+          "Move",
+          "Get Away",
+          "Destroyer",
+          "Born Again",
+          "Sweet Talk"
+        ],
+        "bSide": [
+          "You Can Be You",
+          "For Elise",
+          "Local Long Distance Relationship (LA2NY)",
+          "Slow Motion",
+          "Happy Accidents"
+        ]
+      },
+      "size": 10
+    },
+    {
+      "artist": ["Coldplay"],
+      "album": "A Head Full of Dreams",
+      "songs": {
+        "aSide": [
+          "A Head Full of Dreams",
+          "Birds",
+          "Hymn for the Weekend"
+        ],
+        "bSide": [
+          "Everglow",
+          "Adventure of a Lifetime"
+        ]
+      },
+      "size": 10
+    },
+    {
+      "artist": ["Coldplay"],
+      "album": "Mylo Xyloto",
+      "songs": {
+        "aSide": [
+          "Mylo Xyloto",
+          "Hurts Like Heaven",
+          "Paradise",
+          "Charlie Brown",
+          "Us Against the World",
+          "M.M.I.X.",
+          "Every Teardrop is a Waterfall"
+        ],
+        "bSide": [
+          "Major Minus",
+          "U.F.O.",
+          "Princess of China",
+          "Up in Flames",
+          "A Hopeful Transmission",
+          "Don’t Let It Break Your Heart",
+          "Up with the Birds"
+        ],
+        "size": 10
+      }
+    }
+  ]
+}
